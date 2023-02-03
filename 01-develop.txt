@@ -1,4 +1,5 @@
-<!DOCTYPE html>	
+<!DOCTYPE html>
+<html lang="ru">
 
 	Another brick in the wall
 	Author : Pink Floyd
@@ -18,3 +19,4 @@ Teachers leave them kids alone
 Hey! Teachers! Leave them kids alone!
 All in all it's just another brick in the wall.
 All in all you're just another brick in the wall.
+</html>
