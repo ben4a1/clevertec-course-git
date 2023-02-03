@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<title> The Doors - Riders on the Storm </title>
+	</head>
+	<body>
 	Riders on the Storm
 	Author : The Doors
 
@@ -36,3 +43,5 @@ Riders on the storm
 Riders on the storm
 Riders on the storm
 Riders on the storm
+	</body>
+</html>
